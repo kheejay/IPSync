@@ -19,7 +19,7 @@ The project focuses on providing a simple and accessible space where users can c
 
 - Vue.js
 - Firebase
-- Vercel
+- JavaScript
 
 ---
 
@@ -33,4 +33,5 @@ IPSync was developed as part of a software engineering subject requirement. The 
 ## License
 
 This project is for learning and demonstration purposes.
+
 
